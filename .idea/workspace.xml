@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43d3018c-1a13-4810-ba13-2adfb53ded9f" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StockClass.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spider/StockClass.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-250">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpiderWeb.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Spider/SpiderWeb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="17" column="104" lean-forward="true" selection-start-line="17" selection-start-column="104" selection-end-line="17" selection-end-column="104" />
+              <folding>
+                <element signature="e#13#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FormatCsv.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyStrategy/FormatCsv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StrategyOne.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyStrategy/StrategyOne.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-986">
+              <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StrategyThree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyStrategy/StrategyThree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1630">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StockInfoPaopao.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spider/StockInfoPaopao.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-710">
+              <caret line="7" column="70" lean-forward="true" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StrategyTwo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyStrategy/StrategyTwo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="144" column="57" lean-forward="true" selection-start-line="144" selection-start-column="57" selection-end-line="144" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="000799.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyStrategy/datas/000799.csv">
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="378">
+              <caret line="5451" column="30" lean-forward="true" selection-start-line="5451" selection-start-column="25" selection-end-line="5451" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainWindow.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UI/MainWindow.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="674">
+              <caret line="259" column="34" lean-forward="false" selection-start-line="259" selection-start-column="34" selection-end-line="259" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>0.98</find>
+      <find>buy</find>
+      <find>legend</find>
+      <find>plotind</find>
+      <find>label</find>
+      <find>plotvolume</find>
+      <find>plot</find>
+      <find>Positive</find>
+      <find>focus</find>
+      <find>focusInEvent</find>
+      <find>|</find>
+      <find>or</find>
+      <find>1</find>
+      <find>2</find>
+      <find>ui.</find>
+      <find>MyWindow</find>
+      <find>#</find>
+      <find>datebegin</find>
+      <find>dateend</find>
+      <find>label_4</find>
+      <find>20</find>
+      <find>75</find>
+      <find>Model</find>
+      <find>MainWindow</find>
+      <find>dpi</find>
+      <find>plainTextEdit</find>
+      <find>strategycobox</find>
+      <find>data</find>
+      <find>os.getcwd() + &quot;</find>
+      <find>os.getcwd()</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>,</replace>
+      <replace>Y</replace>
+      <replace>M</replace>
+      <replace>MainWindow</replace>
+      <replace>MyWindow</replace>
+      <replace>25</replace>
+      <replace>40</replace>
+      <replace>60</replace>
+      <replace>75</replace>
+      <replace>80</replace>
+      <replace>DataTable</replace>
+      <replace>MainCentralWidget</replace>
+      <replace>label</replace>
+      <replace>dataline</replace>
+      <replace>strategyline</replace>
+      <replace>&quot;.</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Spider/600001.csv" />
+        <option value="$PROJECT_DIR$/Spider/000027.csv" />
+        <option value="$PROJECT_DIR$/Spider/FormatCsv.py" />
+        <option value="$PROJECT_DIR$/MyStrategy/InCsv.py" />
+        <option value="$PROJECT_DIR$/MyStrategy/datas/600002.csv" />
+        <option value="$PROJECT_DIR$/Spider/222.csv" />
+        <option value="$PROJECT_DIR$/MyStrategy/datas/600005.csv" />
+        <option value="$PROJECT_DIR$/Style/600000.csv" />
+        <option value="$PROJECT_DIR$/Spider/Main.py" />
+        <option value="$PROJECT_DIR$/uidesign/InstructionWindow.py" />
+        <option value="$PROJECT_DIR$/MyStrategy/datas/000027.csv" />
+        <option value="$PROJECT_DIR$/uidesign/ui_DownloadWindow.py" />
+        <option value="$PROJECT_DIR$/MyStrategy/datas/600003.csv" />
+        <option value="E:/Python/Python36/Lib/site-packages/backtrader/cerebro.py" />
+        <option value="$PROJECT_DIR$/MyStrategy/datas/StrategyList.csv" />
+        <option value="$PROJECT_DIR$/MyStrategy/datas/600850.csv" />
+        <option value="$PROJECT_DIR$/MyStrategy/datas/000023.csv" />
+        <option value="$PROJECT_DIR$/MyStrategy/datas/603806.csv" />
+        <option value="$PROJECT_DIR$/MyStrategy/datas/600025.csv" />
+        <option value="$PROJECT_DIR$/MyStrategy/datas/codelist.csv" />
+        <option value="$PROJECT_DIR$/plot.py" />
+        <option value="$PROJECT_DIR$/UI/resultWindow.py" />
+        <option value="$PROJECT_DIR$/uidesign/DetailsWindow.py" />
+        <option value="$PROJECT_DIR$/uidesign/pqp.py" />
+        <option value="$PROJECT_DIR$/Main.py" />
+        <option value="$PROJECT_DIR$/Style/image1.qrc" />
+        <option value="$PROJECT_DIR$/Style/InstructionImages.qrc" />
+        <option value="$PROJECT_DIR$/InstructionImages/InstructionImages.qrc" />
+        <option value="$PROJECT_DIR$/MyStrategy/FormatCsv.py" />
+        <option value="$PROJECT_DIR$/MyStrategy/MyCSVData.py" />
+        <option value="$PROJECT_DIR$/MyStrategy/SizerOne.py" />
+        <option value="$PROJECT_DIR$/MyStrategy/StrategyThree.py" />
+        <option value="$PROJECT_DIR$/UI/DateTable.py" />
+        <option value="$PROJECT_DIR$/UI/DetailsWindow.py" />
+        <option value="$PROJECT_DIR$/UI/DownloadWindow.py" />
+        <option value="$PROJECT_DIR$/UI/InstructionWindow.py" />
+        <option value="$PROJECT_DIR$/UI/ui_MainCentralWidget.py" />
+        <option value="$PROJECT_DIR$/uidesign/untitled.py" />
+        <option value="$PROJECT_DIR$/MyStrategy/StrategyOne.py" />
+        <option value="$PROJECT_DIR$/MyStrategy/strategys_description/双均线策略.csv" />
+        <option value="$PROJECT_DIR$/MyStrategy/StrategyTwo.py" />
+        <option value="$PROJECT_DIR$/MyStrategy/strategys_description/双均线策略.txt" />
+        <option value="$PROJECT_DIR$/MyStrategy/strategys_description/布林带策略.txt" />
+        <option value="$PROJECT_DIR$/MyStrategy/strategys_description/海龟策略.txt" />
+        <option value="$PROJECT_DIR$/hashlist.py" />
+        <option value="$PROJECT_DIR$/UI/StrategyDescriptionWindow.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/UI/ResultWindow.py" />
+        <option value="$PROJECT_DIR$/Spider/SpiderWeb.py" />
+        <option value="$PROJECT_DIR$/MyStrategy/BackTesting.py" />
+        <option value="$PROJECT_DIR$/UI/MainWindow.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="565" />
+    <option name="y" value="33" />
+    <option name="width" value="976" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Back" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Back" type="462c0819:PsiDirectoryNode" />
+              <item name="MyStrategy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Back" type="462c0819:PsiDirectoryNode" />
+              <item name="Spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Back" type="462c0819:PsiDirectoryNode" />
+              <item name="uidesign" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../作业" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\py文档\Back\UI" />
+      <recent name="E:\py文档\Back\MyStrategy\datas" />
+      <recent name="E:\py文档\Back\Spider" />
+      <recent name="E:\py文档\Back\Images" />
+      <recent name="E:\py文档\Back\MyStrategy" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\py文档\Back\InstructionImages" />
+      <recent name="E:\py文档\Back\Style" />
+      <recent name="E:\py文档\Back\Spider" />
+      <recent name="E:\py文档\Back\MyStrategy\datas" />
+      <recent name="E:\py文档\Back" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Main">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Back" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="hashlist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Back" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hashlist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="plot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Back" />
+      <option name="SCRIPT_NAME" value="E:\py文档\Back\UI\ResultWindow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="pqp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/uidesign" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Back" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uidesign/pqp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Back" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.hashlist" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.plot" />
+      <item index="4" class="java.lang.String" itemvalue="Python.pqp" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.hashlist" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test" />
+        <item index="3" class="java.lang.String" itemvalue="Python.pqp" />
+        <item index="4" class="java.lang.String" itemvalue="Python.plot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43d3018c-1a13-4810-ba13-2adfb53ded9f" name="Default" comment="" />
+      <created>1605082809830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605082809830</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18937768" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280543" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33144796" sideWeight="0.5064378" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33144796" sideWeight="0.49356222" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32692307" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25160944" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39932126" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/Python/Python36/Lib/site-packages/backtrader/plot/plot.py</url>
+          <line>418</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="19" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="figs[0][0].texts" />
+        <watch expression="cls.cash" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Spider/Main.py" />
+    <entry file="file://$PROJECT_DIR$/uidesign/qqqq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uidesign/pqp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="35" column="56" lean-forward="true" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/PySide2/QtCore.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="12284" column="8" lean-forward="false" selection-start-line="12284" selection-start-column="8" selection-end-line="12284" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/47262167/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="3589" column="6" lean-forward="false" selection-start-line="3589" selection-start-column="6" selection-end-line="3589" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyStrategy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="2445" column="4" lean-forward="false" selection-start-line="2445" selection-start-column="4" selection-end-line="2445" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/backtrader/cerebro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1148">
+          <caret line="935" column="8" lean-forward="false" selection-start-line="935" selection-start-column="8" selection-end-line="935" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/backtrader/order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2275">
+          <caret line="360" column="32" lean-forward="false" selection-start-line="360" selection-start-column="32" selection-end-line="360" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Style/image1_rc.py" />
+    <entry file="file://$PROJECT_DIR$/InstructionImages/Instruction_2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InstructionImages/Instruction_3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InstructionImages/Instruction_6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InstructionImages/Instruction_5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InstructionImages/InstructionImages_rc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8648">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InstructionImages/Instruction_4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InstructionImages/InstructionImages.qrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyStrategy/SizerOne.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/DateTable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28957">
+          <caret line="1259" column="0" lean-forward="false" selection-start-line="1259" selection-start-column="0" selection-end-line="1259" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/InstructionWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="69" column="58" lean-forward="true" selection-start-line="69" selection-start-column="58" selection-end-line="69" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyStrategy/datas/StrategyList.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyStrategy/strategys_description/布林带策略.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/47262167/_io.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="1346" column="8" lean-forward="false" selection-start-line="1346" selection-start-column="8" selection-end-line="1346" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uidesign/untitled.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="39" column="50" lean-forward="true" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyStrategy/strategys_description/双均线策略.txt">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider editor-type-id="csv-text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyStrategy/strategys_description/海龟策略.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="26" column="56" lean-forward="false" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/PySide2/QtWidgets.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="10348" column="8" lean-forward="false" selection-start-line="10348" selection-start-column="8" selection-end-line="10348" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hashlist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/backtrader/feed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-159">
+          <caret line="722" column="47" lean-forward="true" selection-start-line="722" selection-start-column="47" selection-end-line="722" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python36/Lib/site-packages/backtrader/feeds/csvgeneric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1196">
+          <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyStrategy/MyCSVData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4324">
+          <caret line="200" column="15" lean-forward="true" selection-start-line="200" selection-start-column="15" selection-end-line="200" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/DetailsWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="33" column="8" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/ui_MainCentralWidget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5118">
+          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/ResultWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="61" column="38" lean-forward="false" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/StrategyDescriptionWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyStrategy/datas/000001.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="332">
+          <caret line="7091" column="132" lean-forward="true" selection-start-line="7091" selection-start-column="132" selection-end-line="7091" selection-end-column="132" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyStrategy/BackTesting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/DownloadWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/MainWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="674">
+          <caret line="259" column="34" lean-forward="false" selection-start-line="259" selection-start-column="34" selection-end-line="259" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyStrategy/StrategyOne.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-986">
+          <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyStrategy/StrategyThree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1630">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyStrategy/StrategyTwo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="144" column="57" lean-forward="true" selection-start-line="144" selection-start-column="57" selection-end-line="144" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyStrategy/datas/000799.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="378">
+          <caret line="5451" column="30" lean-forward="true" selection-start-line="5451" selection-start-column="25" selection-end-line="5451" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/StockInfoPaopao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-710">
+          <caret line="7" column="70" lean-forward="true" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/StockClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-250">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyStrategy/FormatCsv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/SpiderWeb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="104" lean-forward="true" selection-start-line="17" selection-start-column="104" selection-end-line="17" selection-end-column="104" />
+          <folding>
+            <element signature="e#13#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

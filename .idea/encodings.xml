@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/MyStrategy/datas/000023.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyStrategy/datas/000027.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyStrategy/datas/002716.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyStrategy/datas/600000.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyStrategy/datas/600001.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyStrategy/datas/600002.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyStrategy/datas/600003.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyStrategy/datas/600005.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyStrategy/datas/600010.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyStrategy/datas/600050.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyStrategy/datas/600238.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyStrategy/datas/600353.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyStrategy/datas/600559.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyStrategy/datas/600850.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyStrategy/datas/603806.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyStrategy/datas/StrategyList.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyStrategy/datas/codelist.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyStrategy/datas/datachoice.csv" charset="GBK" />
+  </component>
+</project>

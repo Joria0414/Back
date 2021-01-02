@@ -1,0 +1,3 @@
+双均线策略,StrategyOne,maperiod1=range(5 11),maperiod2=range(55 61)
+海龟策略,StrategyTwo
+布林带策略,StrategyThree
